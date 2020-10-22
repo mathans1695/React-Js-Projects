@@ -1,0 +1,4 @@
+.Board {
+  margin: 0 auto;
+  box-shadow: 0 0 2px white, 0 0 4px red, 0 0 6px green, 0 0 8px white, 0 0 10px orange, 0 0 12px yellow, 0 0 14px white, 0 0 16px orange;
+}
