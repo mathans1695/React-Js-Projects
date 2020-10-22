@@ -1,0 +1,29 @@
+.TodoForm {
+	display: flex;
+	margin-top: 20px;
+	padding: 3px;
+}
+
+.TodoForm-inputField {
+	flex: 2 2 auto;
+	margin-right: 3px;
+	background-color: rgba(0, 0, 0, 0.5);
+	color: white;
+	border: 1px solid white;
+	border-radius: 3px;
+}
+
+.TodoForm-AddTodo {
+	padding: 5px;
+	background-color: rgba(0, 0, 0, 0.1);
+	border: 1px solid white;
+	color: white;
+	border-radius: 3px;
+}
+
+.TodoForm-AddTodo:hover,
+.TodoForm-AddTodo:focus {
+	cursor: pointer;
+	background-color: black;
+	transition: background-color 2s;
+}

@@ -1,0 +1,8 @@
+.TodoTasks-list li {
+	display: inline-block;
+	width: 400px;
+}
+
+.TodoTasks-list {
+	padding: 5px;
+}
