@@ -1,0 +1,13 @@
+.Ball {
+	display: flex;
+	margin-bottom: 20px;
+	width: 100%;
+	justify-content: center;
+}
+
+.Ball__indiv {
+	padding: 10px;
+	background-color: orange;
+	margin-right: 10px;
+	border-radius: 50%;
+}

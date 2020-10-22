@@ -1,0 +1,16 @@
+.Lottery {
+	padding: 10px;
+	border: 1px solid black;
+	width: 30%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.Lottery__GenerateButton {
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.Lottery__title {
+	margin-bottom: 20px;
+}
