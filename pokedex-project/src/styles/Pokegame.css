@@ -1,0 +1,27 @@
+.Pokegame__heading {
+	width: 100%;
+	margin: 1.04166667% auto;
+	text-align: center;
+}
+
+.Pokegame__winner {
+	font-size: 25px;
+	list-style-type: none;
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	color: green;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.Pokegame__loser {
+	font-size: 25px;
+	list-style-type: none;
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	color: red;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}

@@ -1,0 +1,15 @@
+.Pokecard {
+	text-align: center;
+	padding: 20px;
+	background-color: lightgrey;
+	border-radius: 10px;
+	height: 10%;
+	width: 15%;
+	margin-left: 8%;
+	margin-bottom: 2%;
+}
+
+.pokecard__img--fill:hover {
+	width: 110%;
+	height: 110%;
+}
