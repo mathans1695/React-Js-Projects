@@ -1,0 +1,19 @@
+.Lays-main {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	z-index: 100;
+}
+
+.Lays-img {
+	z-index: 10;
+	width: 200px;
+	height: 300px;
+}
+
+.Lays-homeLink {
+	text-decoration: none;
+	color: blue;
+	display: block;
+}

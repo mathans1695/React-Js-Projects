@@ -1,0 +1,42 @@
+.Home {
+	width: 100vw;
+	height: calc(100vh - 50px);
+	background-image: url('/images/vending.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.Home-info {
+	color: white;
+	font-size: 25px;
+	width: 350px;
+	position: relative;
+	top: 40%;
+	left: 70%;
+	padding: 10px;
+	border-radius: 10px;
+	border: 5px solid white;
+}
+
+.Home-buy {
+	color: white;
+	text-decoration: none;
+	display: flex;
+	flex-direction: column;
+	border-radius: 10px;
+	border: 5px solid white;
+	width: 350px;
+	font-size: 25px;
+	position: absolute;
+	top: 45%;
+	left: 10%;
+	padding: 10px;
+	justify-content: center;
+	align-items: center;
+}
+
+.Home-buy-links {
+	color: inherit;
+	text-decoration: inherit;
+	margin-bottom: 5px;
+}

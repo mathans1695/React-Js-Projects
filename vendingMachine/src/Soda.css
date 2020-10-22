@@ -1,0 +1,13 @@
+.Soda {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: calc(100vh - 50px);
+}
+
+.Soda-img {
+	width: 200px;
+	height: 300px;
+	transform: rotate(360deg);
+	transition: transform 1s ease;
+}
