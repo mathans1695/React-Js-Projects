@@ -1,0 +1,19 @@
+git add => To move a modified to staging area to commit
+git commit -a => To skip staging part
+git status => Will give status of modified and staged files
+git status -s or git status --short => Will give status in an simplied manner
+git diff => Will display modified files and its changes
+git diff --staged (or) git diff --cached => Will display staged files and its modification
+git commit -m "string of message" => Will commit all the files in the staged phase, changes made after 'git add' comment will 
+									 not get included
+git init => Will initialize current directory for tracking. Intially, all files are tracked and unmodified, but when you 
+			add new files, it'll get added to untracked files
+git clone 'url' => Will clone the whole project and also previous snapshots of the project will also get copied
+git difftool => will open the default tool and displays the differences being done in all the files
+git rm 'filename (or) glob patterns' => Will remove the filename and stage the removed file, next time when you commit changes, 
+										it will totally removed from the system and also git will not track files.
+	(We can also rm file from cmd, but those deleted will be under modified stage, we have add the deleted files to staged phase explicity using git add file)	
+git rm --cached filename => Will remove the specified file from staging phase, so the changes will not be committed
+git mv file_from file_to => git mv command is used to rename a file. It's like rename the file, remove the old name and stage 
+							the	new name to be ready for commit
+	(We can also do like mv old_name new_name, but we have to explicity remove the old file and then add the new file name to the staging phase to commit the changes using mv old_name new_name -> git rm old_name -> git add new_name)

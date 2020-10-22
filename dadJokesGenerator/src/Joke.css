@@ -1,0 +1,45 @@
+.upvote,
+.downvote {
+	width: 16px;
+	height: 16px;
+	margin: 5px;
+}
+
+.upvote:hover,
+.downvote:hover {
+	cursor: pointer;
+}
+
+.Joke {
+	position: relative;
+	display: flex;
+	border: 1px solid black;
+	align-items: center;
+	margin: 10px auto;
+	width: 80%;
+	text-align: left;
+}
+
+.vote-count {
+	width: 40px;
+	height: 40px;
+	border: 1px solid black;
+	border-radius: 50%;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.emoji {
+	font-size: 16px;
+	position: absolute;
+	right: 0;
+	top: center;
+	padding-right: 30px;
+}
+
+.Joke-text {
+	width: 78%;
+}

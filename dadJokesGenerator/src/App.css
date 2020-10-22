@@ -1,0 +1,21 @@
+.DadJokes {
+	text-align: center;
+	height: 100%;
+}
+
+.new-jokes,
+.clear-jokes {
+	padding: 10px;
+	border-radius: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.loading-spinner {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -100px;
+	margin-left: -100px;
+	display: block;
+}
