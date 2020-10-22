@@ -1,0 +1,12 @@
+.CoinFlipper {
+	width: 50%;
+	margin: 0 auto;
+	border: 1px solid black;
+	text-align: center;
+}
+
+.CoinFlipper-button {
+	margin: 10px;
+	padding: 10px;
+	border-radius: 10px;
+}
