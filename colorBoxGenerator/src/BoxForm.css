@@ -1,0 +1,8 @@
+.BoxForm label {
+	display: block;
+	margin-bottom: 5px;
+}
+
+.BoxForm input {
+	margin-left: 5px;
+}
