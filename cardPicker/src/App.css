@@ -1,0 +1,15 @@
+.content {
+	width: 100%;
+	position: relative;
+}
+
+.draw_button {
+	padding: 15px;
+	margin: 50px auto;
+	display: block;
+}
+
+.title {
+	color: white;
+	text-align: center;
+}
