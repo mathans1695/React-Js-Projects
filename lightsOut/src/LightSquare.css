@@ -1,0 +1,14 @@
+.LightSquare {
+	width: 50px;
+	height: 50px;
+	margin: 1px;
+	border: 0px;
+}
+
+.LightSquare--active {
+	background-color: rgba(0, 255, 0, 0.5);
+}
+
+.LightSquare--deactivate {
+	background-color: rgba(255, 0, 0, 0.5);
+}

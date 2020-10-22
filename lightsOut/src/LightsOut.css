@@ -1,0 +1,44 @@
+.LightsOut-container {
+	width: 262px;
+	height: 262px;
+	display: flex;
+	flex-wrap: wrap;
+	padding: 1px;
+	box-shadow: 0 0 6px white, 0 0 10px yellow, 0 0 14px green, 0 0 18px red, 0 0 22px cyan;
+	margin: 0 auto;
+	align-items: center;
+}
+
+.LightsOut {
+	width: 400px;
+	height: 400px;
+	margin: auto;
+	text-align: center;
+	padding: 50px;
+}
+
+.LightsOut button:disabled {
+	background-color: grey;
+}
+
+.LightsOut-win {
+	color: white;
+	margin: 20px auto;
+	text-shadow: inset 1px 1px 6px green;
+	font-size: 3em;
+}
+
+.LightsOut-title {
+	color: white;
+	margin-bottom: 20px;
+	text-shadow: 0 0 6px white, 0 0 10px yellow, 0 0 14px green, 0 0 18px red, 0 0 22px cyan;
+}
+
+.LightsOut-restart {
+	padding: 10px;
+	color: white;
+	background-color: black;
+	margin-top: 30px;
+	border-radius: 5px;
+	box-shadow: 0 0 2px white, 0 0 6px yellow, 0 0 10px green, 0 0 14px red, 0 0 18px cyan;
+}
