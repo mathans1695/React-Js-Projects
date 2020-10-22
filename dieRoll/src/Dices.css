@@ -1,0 +1,28 @@
+.Dices {
+	margin: 20px auto;
+	display: flex;
+	justify-content: space-between;
+	width: 250px;
+	flex-wrap: wrap;
+}
+
+.Dices-roll-dices,
+.Dices-rolling {
+	padding: 10px;
+	margin: 20px auto;
+	background-color: blue;
+	color: white;
+	box-shadow: 1px 1px 5px -3px black, -1px -1px 5px -3px black;
+	border: 0px;
+	border-radius: 3px;
+}
+
+.Dices-roll-dices:hover {
+	background-color: white;
+	color: black;
+	cursor: pointer;
+}
+
+.Dices-rolling {
+	background-color: black;
+}
