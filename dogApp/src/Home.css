@@ -1,0 +1,17 @@
+.Home {
+	padding: 20px;
+	width: 50%;
+	text-align: center;
+	position: absolute;
+	background-color: white;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.Home-link {
+	color: inherit;
+	font-size: 20px;
+	padding: 10px;
+	display: block;
+}

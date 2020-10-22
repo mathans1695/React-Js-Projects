@@ -1,0 +1,41 @@
+.Dog {
+	text-align: center;
+	max-height: 80%;
+	background-color: transparent;
+	width: 30%;
+	margin: 10px auto;
+	border-radius: 10px;
+	font-size: 20px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+	padding: 5px;
+}
+
+.Dog-img {
+	width: 100%;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+	background-size: contain;
+	margin: 3px auto;
+	height: 50%;
+}
+
+.Dog-name,
+.Dog-age,
+.Dog-facts {
+	padding: 10px;
+	margin: 3px auto;
+	background-color: white;
+}
+
+.Dog-facts {
+	list-style: none;
+	text-align: left;
+}
+
+.Dog-age {
+	text-align: left;
+}
+
+.Dog-fact {
+	padding: 3px;
+}

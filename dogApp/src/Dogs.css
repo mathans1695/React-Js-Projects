@@ -1,0 +1,36 @@
+.Dogs {
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	margin-top: 100px;
+	color: black;
+}
+
+.Dogs-indiv {
+	background-color: white;
+	margin: 20px;
+	border-radius: 20px;
+}
+
+.Dogs-indiv-img {
+	height: 250px;
+	width: 250px;
+	border-radius: 20px;
+	padding-bottom: 10px;
+}
+
+.Dogs-indiv-name {
+	padding: 10px;
+}
+
+.Dogs-indiv-img:hover,
+.Dogs-indiv-name:hover {
+	cursor: pointer;
+}
+
+.Dogs-indiv-link {
+	color: inherit;
+	text-decoration: none;
+}
