@@ -1,0 +1,11 @@
+.TotalPoints-points {
+	font-size: 3em;
+	margin: 0 auto;
+	border: 0px;
+	font-weight: 100;
+}
+
+.TotalPoints {
+	border-top: 1px solid purple;
+	width: 100%;
+}
