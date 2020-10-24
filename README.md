@@ -48,7 +48,15 @@ Navigate to lightsOut folder to explore project files.
 # Hangman Game
 Navigate to hangman folder to explore project files
 
-  - **Project summary** - Find the word or die
+  - **Project Summary** - Find the word or die
   - **Project Snapshot** - Screenshot of hangman game
 
 ![Hangman Game](https://github.com/mathans1695/React-Projects/blob/master/React%20Project%20Snapshots/Hangman%20Game.png)
+
+# DogApp
+Navigate to dogApp folder to explore project files
+
+  - **Project Summary** - This project was created to understand 'Client Side Rendering'
+  - **Project Snapshot** - Screenshot of DogApp
+  
+![DogApp Snapshot](https://github.com/mathans1695/React-Js-Projects/blob/master/React%20Project%20Snapshots/Dog%20App.png)
