@@ -29,4 +29,26 @@ Navigate to CardPicker folder to explore project files. Fetch API was used to ma
 
 ![Random Card Generator Snapshot](https://github.com/mathans1695/React-Projects/blob/master/React%20Project%20Snapshots/Random%20Card%20Generator.png)
 
+# Todo List
+Navigate to smallTodoList folder to expolre project files.
 
+  - **Project Summary** - Simple Todo list created using React Js. You can add, edit, remove and update the status of the task.
+  - **Project Snapshot** - Screenshot of TodoList
+  
+![TodoList Snapshot](https://github.com/mathans1695/React-Projects/blob/master/React%20Project%20Snapshots/Todo%20List.png)
+
+# Lights Out Game
+Navigate to lightsOut folder to explore project files.
+
+  - **Project Summary** - Make the tile to fill with one color. Clicking the tile will make adjacent top, left, right, bottom tiles to change color and the clicked tile will also change its color, repect this same process until every tile filled with one color.
+  - **Project Snapshot** - Screenshot of Lights Out game
+
+![Lights Out Game Snapshot](https://github.com/mathans1695/React-Projects/blob/master/React%20Project%20Snapshots/Lights%20Out%20Game.png)
+
+# Hangman Game
+Navigate to hangman folder to explore project files
+
+  - **Project summary** - Find the word or die
+  - **Project Snapshot** - Screenshot of hangman game
+
+![Hangman Game](https://github.com/mathans1695/React-Projects/blob/master/React%20Project%20Snapshots/Hangman%20Game.png)
