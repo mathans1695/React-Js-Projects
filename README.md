@@ -20,3 +20,12 @@ Navigate to DadJokes folder to explore project files
   - **Project Snapshot** - Screenshot of DadJokes Project
 
 ![DadJokes App Snapshot](https://github.com/mathans1695/React-Projects/blob/master/React%20Project%20Snapshots/Dad%20Jokes.png)
+
+# Random Card Generator
+Navigate to CardPicker folder to explore project files
+
+  - **Project Summary** - Random Card Generator will pick a random card from deck of cards. I used an [Deckofcards API](https://deckofcardsapi.com/) to achieve this. Call to this 'https://deckofcardsapi.com/api/deck/new/shuffle/' API returns a JSON object which has 'deck_id' property. Use that 'deck_id' to make another request to this url'https://deckofcardsapi.com/api/deck/${deck_id}/draw/', which will draw a random card from the deck. The special feature about using this API is that it draws card from the same deck, once the deck is over - you can't able to draw cards from the deck.
+  - **Project Snapshot** - Screenshot of Random Card Generator
+
+![Random Card Generator Snapshot](https://github.com/mathans1695/React-Projects/blob/master/React%20Project%20Snapshots/Random%20Card%20Generator.png)
+
