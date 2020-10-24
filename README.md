@@ -60,3 +60,15 @@ Navigate to dogApp folder to explore project files
   - **Project Snapshot** - Screenshot of DogApp
   
 ![DogApp Snapshot](https://github.com/mathans1695/React-Js-Projects/blob/master/React%20Project%20Snapshots/Dog%20App.png)
+
+# Other Projects
+
+  - **Coin Fipper** - Will filp the coin randomly on click of a button
+  - **Project Snapshot** - Screenshot of Coin Flipper
+  
+![Coin Flipper Snapshot](https://github.com/mathans1695/React-Js-Projects/blob/master/React%20Project%20Snapshots/Coin%20Flipper.png)
+
+  - **Pokedex** - Displaying Pokeman card
+  - **Project Snapshot** - Screenshot of Pokedex
+  
+![Pokedex Snapshot](https://github.com/mathans1695/React-Js-Projects/blob/master/React%20Project%20Snapshots/Pokedex.png)
