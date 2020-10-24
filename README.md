@@ -1,7 +1,7 @@
-# React-Projects
-Repo for React Projects
+# React Js-Projects
+Repo for React Js Projects
 
-I did this projects to understand react concepts better
+I did this projects to understand React Js concepts better
 
 More projects yet to come
 
